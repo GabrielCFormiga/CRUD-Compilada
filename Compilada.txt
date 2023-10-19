@@ -1,0 +1,16 @@
+1;1;Basquete
+1;3;Basquete;Nathan ;43279293742;2024;Capitao;2023.2
+1;2;Basquete;Gabriel Campelo;20220023814;0001;1
+1;2;Basquete;Rafael de Melo;20220023816;0002;1
+1;2;Basquete;Daniel Prado;20220023818;0003;1
+1;2;Basquete;Lulu;1874971941;2032;1
+1;1;Volei
+1;2;Volei;Mendonça;20220023512;0004;1
+1;2;Volei;Andre;20220024234;0005;1
+1;1;Xadrez
+1;2;Xadrez;Junior Lima;234124141424;0006;1
+1;2;Xadrez;Anderson Guimaraes;213094108412;0007;1
+1;1;Natacao
+1;2;Natacao;Vini;21411515;1322;1
+1;1;Escalads
+1;2;Escalads;Dani;748236846;2341;1
